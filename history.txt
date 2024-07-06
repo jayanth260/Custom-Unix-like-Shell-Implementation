@@ -1,0 +1,15 @@
+EXIT
+clear
+nano 
+clear
+activities
+EXIT
+clear
+sleep 500 &
+clear
+EXIT
+clear
+EXIT
+peek
+peek ..
+EXIT

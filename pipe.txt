@@ -1,0 +1,5 @@
+apple
+ban
+This is the correct ouput
+date
+fig 
